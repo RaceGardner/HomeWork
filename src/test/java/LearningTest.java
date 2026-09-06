@@ -1,3 +1,10 @@
+/**
+ * simple class to use addition and subtraction to create a UML file
+ * @author Race Gardner
+ * @version 0.1.0
+ * @since 09/06/2026
+ */
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class LearningTest {
