@@ -12,7 +12,7 @@ public class EasyClass {
     private String name;
 
     /**
-     * Base constructor
+     * Base constructor taking 3 attributes
      * @param name a string
      * @param count an int
      * @param score a double
